@@ -1,0 +1,27 @@
+{
+  "name": "pride-hack-sut-backend",
+  "version": "1.0.0",
+  "description": "The backend side of the pride month hackathon project at SUT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adadesions/PrideHackathonSUT.git"
+  },
+  "keywords": [
+    "hackathon",
+    "pride",
+    "sut"
+  ],
+  "author": "AdaDeSions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adadesions/PrideHackathonSUT/issues"
+  },
+  "homepage": "https://github.com/adadesions/PrideHackathonSUT#readme",
+  "dependencies": {
+    "web3": "^1.7.3"
+  }
+}
