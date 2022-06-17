@@ -1,0 +1,1 @@
+# Pride Month Hackathon @ SUT
